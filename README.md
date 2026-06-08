@@ -1,4 +1,4 @@
-# Protocol for Thermodynamically Optimal Construction and Analysis of Metabolic Networks
+# Protocol for Thermodynamically Optimal Construction and Analysis of Metabolic Networks using ThermOptCOBRA
 
 This directory contains the implementations and tools supporting the protocol to construct and analyze thermodynamically optimal genome-scale metabolic networks.
 
